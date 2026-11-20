@@ -1,0 +1,2 @@
+Put your unzipped NASA cleaned_dataset/data/ folder here (7,565 cycle CSVs, 00001.csv ...).
+Not needed to run the app: cached features and ICA curves are in backend/artifacts/.

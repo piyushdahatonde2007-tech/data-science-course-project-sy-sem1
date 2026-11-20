@@ -1,0 +1,3 @@
+Put your unzipped battery_alt_dataset/ folder here (26 pack CSVs + READMEs + LICENSE).
+Not needed to run the app: the cached tables are in backend/artifacts/.
+Only needed to re-extract features: cd backend && python ../tools/extract_alt.py data/alt/battery_alt_dataset && python -m app.alt_train
